@@ -290,3 +290,6 @@ __pycache__/
 # VSTS Extensions
 /dist
 *.vsix
+
+# CycloneDX Bill of Material
+bom.xml

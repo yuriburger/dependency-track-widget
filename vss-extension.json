@@ -1,12 +1,12 @@
 {
   "manifestVersion": 1,
   "id": "dependencytrackwidget",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "name": "Dependency Track Widget",
   "scopes": ["vso.work"],
   "description": "Widget to show the Dependency Track status for projects",
   "publisher": "yuriburgernet",
-  "galleryFlags": ["Preview", "Private"],
+  "galleryFlags": ["Preview", "Public"],
   "icons": {
     "default": "static/images/logo.png"
   },

@@ -15,4 +15,4 @@ npm install
 npm run build
 ```
 
-For more information, check this blogpost (coming soon): [Dependency Track Dashboard Widget for Azure DevOps](https://yuriburger.net/)
+For more information, check this blogpost: [Dependency Track Dashboard Widget for Azure DevOps](https://yuriburger.net/2020/03/31/a-dependency-track-dashboard-widget-for-azure-devops/)

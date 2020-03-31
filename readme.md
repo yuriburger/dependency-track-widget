@@ -1,4 +1,4 @@
-# Dependency Track Dashboard Widget for VSTS
+# Dependency Track Dashboard Widget for Azure DevOps
 
 Widget to show the Dependency Track status for projects
 
@@ -15,4 +15,4 @@ npm install
 npm run build
 ```
 
-For more information, check this blogpost: [Coming soon](https://yuriburger.net/)
+For more information, check this blogpost (coming soon): [Dependency Track Dashboard Widget for Azure DevOps](https://yuriburger.net/)

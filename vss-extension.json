@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
   "id": "dependencytrackwidget",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "name": "Dependency Track Widget",
   "scopes": ["vso.work"],
   "description": "Widget to show the Dependency Track status for projects",

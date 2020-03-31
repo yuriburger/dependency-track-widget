@@ -22,6 +22,7 @@ Widget to show the Dependency Track status for projects
 ### Known issue(s)
 
 - CORS issue with the default configuration with the Dependency Track docker image: It returns an incorrect string of CORS Allowed Methods causing browsers to fail the CORS preflight check. Workaround: configure a correct string, i.e. "alpine.cors.allow.methods=GET, POST, PUT, DELETE, OPTIONS"
+- Built using the VSS SDK: This widget was built using the "old" VSS SDK, because the "new" Azure DevOps SDK does not support widgets yet. More info: [Azure DevOps Extension Samples](https://github.com/microsoft/azure-devops-extension-sample).
 
 ### Learn More
 
@@ -33,5 +34,4 @@ The [source](https://github.com/yuriburger/dependency-track-widget) to this exte
 
 ### Feedback
 
-- Feedback welcome: add a review here or ....
-- .... file any issues on GitHub [issues](https://github.com/yuriburger/dependency-track-widget/issues).
+Feedback welcome: add a review here or file any issues on GitHub [Issues](https://github.com/yuriburger/dependency-track-widget/issues).
